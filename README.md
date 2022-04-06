@@ -1,6 +1,6 @@
 # E-commerce-iOS
 
-iOS(Storyboard) using MVVM pattern with registration and authorization forms, all data is stored in an array. There is a JSON file that was parsed from which I took information about my products. All this was done in Stoyboard using UITableView, UITableViewCell, UICollectionVIew, UICollectionViewCell, UIImage, TextView and etc.
+iOS(Storyboard) using MVC pattern with registration and authorization forms, all data is stored in an array. There is a JSON file that was parsed from which I took information about my products. All this was done in Stoyboard using UITableView, UITableViewCell, UICollectionVIew, UICollectionViewCell, UIImage, TextView and etc.
 
 ### Screenshots
 
